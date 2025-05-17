@@ -5,7 +5,7 @@
 2. [Data Collection](#data-collection)
 3. [Data Cleaning](#data-cleaning)
 4. [Data Exploration](#data-exploration)
-5. [Visualization and Data Findings](#visualization)
+5. [Visualization](#visualization)
 6. [Conclusion](#conclusion)
 
 ## Introduction
@@ -28,7 +28,7 @@ The data cleaning process included checking for and removing duplicates, imputin
 ## Data Exploration
 In the data exploration phase, distribution plots were created using Python to better visualize the data. Box plot was used to visualize outliers, there upper and lower bounds were determined which further aided in the removal of outliers which would skew the results of the analysis. Finally, the correlation between columns was examined.
 
-## Visualization and Data Findings
+## Visualization
 The final visualizations were created using IBM Cognos Analytics and presented findings made into a Powerpoint presentation.
 
 ## Conclusion
