@@ -5,7 +5,7 @@
 2. [Data Collection](#data-collection)
 3. [Data Cleaning](#data-cleaning)
 4. [Data Exploration](#data-exploration)
-5. [Visualization](#visualization)
+5. [Visualization and Data Findings](#visualization)
 6. [Conclusion](#conclusion)
 
 ## Introduction
